@@ -1,0 +1,28 @@
+html {
+    background-color: bisque;
+    margin: 10%;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    font-size: 32pt;
+}
+.alternativeIndie {
+    color: rgb(113, 113, 255);
+}
+.koreanIndie {
+    color:rgb(155, 183, 174);
+}
+.jazz {
+    color: rgb(70, 26, 0);
+}
+.my-box {
+    background: rgb(32,125,168);
+    background: linear-gradient(180deg, rgba(32,125,168,1) 0%, rgba(124,90,52,1) 26%, rgba(0,27,7,1) 100%);
+}
+svg {
+    fill: grey;
+}
